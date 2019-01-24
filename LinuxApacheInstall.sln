@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "LinuxApacheInstall", "LinuxApacheInstall\LinuxApacheInstall.deployproj", "{DA7589F9-8171-4308-B522-D74FD95A4977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA7589F9-8171-4308-B522-D74FD95A4977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7589F9-8171-4308-B522-D74FD95A4977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7589F9-8171-4308-B522-D74FD95A4977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7589F9-8171-4308-B522-D74FD95A4977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736C3572-5FF3-46E7-A831-8063FA36C238}
+	EndGlobalSection
+EndGlobal
