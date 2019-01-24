@@ -186,9 +186,7 @@
         "typeHandlerVersion": "2.0",
         "autoUpgradeMinorVersion": true,
         "settings": {
-          "fileUris": [
-"https://github.com/Kanika0208/LinuxApacheInstall/blob/master/LinuxApacheInstall/install_apache.sh"
-          ],
+          "fileUris": [ "https://github.com/Kanika0208/LinuxApacheInstall/blob/master/LinuxApacheInstall/install_apache.sh" ],
           "commandToExecute": "sh install_apache.sh"
         }
       }
